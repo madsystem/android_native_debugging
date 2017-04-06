@@ -29,7 +29,7 @@ The device I am using is a ARMv7 device. Beware if your target devices has a dif
     * See [startgdbclient.bat](https://github.com/madsystem/android_native_debugging/startgdbclient.py).
 8. In gdb set the remote target to port 5039: ```remote target :5039```
 9. Load the symbols you need. [set solib-search-path](http://visualgdb.com/gdbreference/commands/set_solib-search-path).
-10. Done :)
+10. Done, have fun debugging. :)
 
 
 
